@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/antwika/app/compare/v0.0.2...v0.0.3) (2022-04-18)
+
+
+### Features
+
+* add lint step to pre-commit hook ([4428f5e](https://github.com/antwika/app/commit/4428f5e1ce68d1e212e096fb0166939833731d25))
+* add renovate configuration ([9538225](https://github.com/antwika/app/commit/9538225e73334d0c76efae9182427c07ae57e34e))
+* added husky for git hooks ([657d13d](https://github.com/antwika/app/commit/657d13d71115fe020144dd92dfea488bbb553eeb))
+* status badges in readme ([94e471c](https://github.com/antwika/app/commit/94e471c480182d83afc3a652b33b51a97d55d637))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @antwika/common to v0.0.6 ([72d52f4](https://github.com/antwika/app/commit/72d52f4de925156f69e65906f4dc5bddefe23a46))
+* set test coverage threshold to 100% ([016b652](https://github.com/antwika/app/commit/016b6525767eaa44af8a1454f3c5ef79b54655db))
+
 ### 0.0.2 (2022-04-18)
 
 
