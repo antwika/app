@@ -1,10 +1,6 @@
-import { IServiceArgs, Service } from '@antwika/common';
+import { Service } from '@antwika/common';
 
 export class App extends Service {
-  constructor(args: IServiceArgs) {
-    super(args);
-  }
-
   async onStart() {
     console.log(`App[${this.name}] starting...`);
   }

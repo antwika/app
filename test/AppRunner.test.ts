@@ -12,7 +12,7 @@ jest.mock('componentsjs', () => ({
       configRegistry,
       instantiate,
     })),
-  }
+  },
 }));
 
 describe('AppRunner', () => {

@@ -6,7 +6,7 @@ export class AppRunner {
     const manager = await ComponentsManager.build({
       mainModulePath: process.cwd(),
     });
-    
+
     await manager.configRegistry.register('config/config.jsonld');
 
     const myApp: App = await manager.instantiate('urn:antwika:app:App');
