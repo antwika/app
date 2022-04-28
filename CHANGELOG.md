@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/antwika/app/compare/v0.0.4...v0.0.5) (2022-04-28)
+
+
+### Bug Fixes
+
+* split up classes into individual files ([45d4b7a](https://github.com/antwika/app/commit/45d4b7a70bb18e5f85813793b86c34177c43c04f))
+
 ### [0.0.4](https://github.com/antwika/app/compare/v0.0.2...v0.0.4) (2022-04-28)
 
 
