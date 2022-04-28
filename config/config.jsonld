@@ -1,0 +1,21 @@
+{
+  "@context": [
+    "https://linkedsoftwaredependencies.org/bundles/npm/componentsjs/^5.0.0/components/context.jsonld",
+    "https://linkedsoftwaredependencies.org/bundles/npm/@antwika/app/*/components/context.jsonld",
+    "https://linkedsoftwaredependencies.org/bundles/npm/@antwika/common/*/components/context.jsonld"
+  ],
+  "@graph": [
+    {
+      "@id": "urn:antwika:app:App",
+      "@type": "App",
+      "args_name": "My app",
+      "args_services": [],
+      "appArguments": { "@id": "urn:antwika:app:args" }
+    },
+    {
+      "@id": "urn:antwika:app:args",
+      "@type": "AppArguments",
+      "args": []
+    }
+  ]
+}
