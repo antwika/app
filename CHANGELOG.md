@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/antwika/app/compare/v0.0.5...v0.0.6) (2022-04-28)
+
+
+### Bug Fixes
+
+* add missing export to index.ts ([1521e9e](https://github.com/antwika/app/commit/1521e9eebca7e1305b6bb9a4aad37920f462674e))
+* enforce all classes in 'src/' to be tested for coverage report ([a5a0fa8](https://github.com/antwika/app/commit/a5a0fa8897be8ef383d2f15106c8177f4a828cf2))
+
 ### [0.0.5](https://github.com/antwika/app/compare/v0.0.4...v0.0.5) (2022-04-28)
 
 
