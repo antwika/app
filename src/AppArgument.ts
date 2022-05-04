@@ -12,7 +12,7 @@ export class AppArgument implements IAppArgument {
 
   public readonly description: string;
 
-  public readonly value: any;
+  public readonly value: string;
 
   constructor(args: IAppArgument) {
     this.shortName = args.shortName;

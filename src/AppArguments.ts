@@ -15,6 +15,9 @@ export class AppArguments {
       type: 'string',
     }));
 
-    this.args = this.args.map((arg) => ({ ...arg, value: y.argv[arg.shortName] }));
+    this.args = this.args.map((arg) => ({
+      ...arg,
+      value: y.argv[arg.shortName] as string,
+    }));
   }
 }
