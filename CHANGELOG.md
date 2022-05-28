@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/antwika/app/compare/v0.0.6...v0.0.7) (2022-05-28)
+
+
+### Bug Fixes
+
+* a temporary fix for TS7053 related yargs.argv being sync/async. ([c6e4b8a](https://github.com/antwika/app/commit/c6e4b8a247b1e7300ce9ef7d81771fb47e672c2b))
+* **deps:** update dependency @antwika/common to v0.0.8 ([0a21ae7](https://github.com/antwika/app/commit/0a21ae7acd05806d7a1d983f3ed6f953239f5ad4))
+* **deps:** update dependency @antwika/common to v0.0.9 ([d4fdbf1](https://github.com/antwika/app/commit/d4fdbf1c329a4b880a1363310e037ecb5ebf1e05))
+* error TS7053 on AppArgument.value property ([bcfdd3b](https://github.com/antwika/app/commit/bcfdd3b0348b0f7b38dc47ae1eba086f40d5c7b4))
+
 ### [0.0.6](https://github.com/antwika/app/compare/v0.0.5...v0.0.6) (2022-04-28)
 
 
