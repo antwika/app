@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.9](https://github.com/antwika/app/compare/v0.0.7...v0.0.9) (2022-06-11)
+
+
+### Features
+
+* inject environment variables starting with 'APP_' into application ([7e986ff](https://github.com/antwika/app/commit/7e986ff5e028026ba62302b790f693c8773a6087))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @antwika/common to v0.0.11 ([34b4d50](https://github.com/antwika/app/commit/34b4d509709931d0a17f5622dab18d33a426c2a2))
+
 ### [0.0.8](https://github.com/antwika/app/compare/v0.0.7...v0.0.8) (2022-06-06)
 
 
