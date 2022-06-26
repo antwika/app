@@ -5,6 +5,7 @@ export class AppArguments {
   public readonly args: AppArgument[];
 
   constructor(args: AppArgument[]) {
+    console.warn('Deprecated: Do not use "appArguments" anymore, instead use environment variables starting with prefix APP_');
     this.args = args;
 
     const y = yargs(process.argv.slice(2)).env('');
