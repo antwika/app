@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](https://github.com/antwika/app/compare/v0.0.10...v0.0.11) (2022-06-28)
+
+
+### Features
+
+* release package every Tuesday at 12:15 UTC ([71ebf3f](https://github.com/antwika/app/commit/71ebf3fccc1b33ec8a776ac09ea16253bb56030f))
+* script for typedoc generation ([3cd7767](https://github.com/antwika/app/commit/3cd7767911bb224aeaae32dbf13aebfb00e544b8))
+
+
+### Bug Fixes
+
+* deprecate usage of 'AppArguments', instead use environment variables with prefix 'APP_' ([eee975c](https://github.com/antwika/app/commit/eee975cf91ef40035745cb010ccaf1144debf4a3))
+* **deps:** update dependency @antwika/common to v0.0.13 ([296ad08](https://github.com/antwika/app/commit/296ad08fee6dcdd14571e6e1116df442456d4d34))
+
 ### [0.0.10](https://github.com/antwika/app/compare/v0.0.9...v0.0.10) (2022-06-26)
 
 
