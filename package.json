@@ -46,7 +46,7 @@
     "typescript": "4.7.4"
   },
   "dependencies": {
-    "@antwika/common": "0.0.16",
+    "@antwika/common": "0.0.17",
     "componentsjs": "^5.0.1",
     "yargs": "^17.4.1"
   },
