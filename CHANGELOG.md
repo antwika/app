@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.0.30](https://github.com/antwika/app/compare/v0.0.29...v0.0.30) (2022-11-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @antwika/common to v0.0.34 ([74687b6](https://github.com/antwika/app/commit/74687b61c48246b738ae7c63b5189f776df8576d))
+* utilize yargs parseSync for cli parsing inside a constructor ([6f4d1cc](https://github.com/antwika/app/commit/6f4d1cc537768995e429fcccbc48993246b837bf))
+
 ## [0.0.29](https://github.com/antwika/app/compare/v0.0.28...v0.0.29) (2022-11-01)
 
 
