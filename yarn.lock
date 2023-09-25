@@ -14,10 +14,10 @@
   dependencies:
     "@jridgewell/trace-mapping" "^0.3.0"
 
-"@antwika/common@0.0.79":
-  version "0.0.79"
-  resolved "https://registry.yarnpkg.com/@antwika/common/-/common-0.0.79.tgz#14a4297762a0098318323fdcbd718a7709f24fda"
-  integrity sha512-laOFWaeASZtmdwMKWQoaZTM5HFZefmy17Wk+BaKnxx/l51R4m5h5CpHXhA8xUOb1OkdnWpVGIyP7bFpkVyA6bw==
+"@antwika/common@0.0.80":
+  version "0.0.80"
+  resolved "https://registry.yarnpkg.com/@antwika/common/-/common-0.0.80.tgz#2a3c7e20f5255831064aaf32024692cabf8a8385"
+  integrity sha512-dHLooODYPAiYqSPwKcPzWdgy3X6qeD/aFGnhrdgTgF9xKkPrW1WjLknOdT4lKsUSk7KnpboxuUbDN7Q4qxNNBQ==
 
 "@antwika/standard-version@0.1.66":
   version "0.1.66"
