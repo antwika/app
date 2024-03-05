@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.0.99](https://github.com/antwika/app/compare/v0.0.98...v0.0.99) (2024-03-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency componentsjs to v6 ([968244e](https://github.com/antwika/app/commit/968244e9216de78b328edf0184765a9c056f2080))
+
 ## [0.0.98](https://github.com/antwika/app/compare/v0.0.97...v0.0.98) (2024-02-27)
 
 ## [0.0.97](https://github.com/antwika/app/compare/v0.0.96...v0.0.97) (2024-02-20)
